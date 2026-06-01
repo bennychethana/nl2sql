@@ -1,0 +1,9 @@
+.next/
+node_modules/
+.env.local
+.env
+*.tsbuildinfo
+out/
+
+src/data/payments_2022.csv 
+src/data/payments_2023.csv
